@@ -13,6 +13,6 @@ This Raw React example is a simple form with only three fields that can be updat
 ## Links
 
 * [Part 1](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
-* [Part 2](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/
+* [Part 2](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 
 
